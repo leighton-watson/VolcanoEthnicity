@@ -1,0 +1,14 @@
+# Ignore all PDF and PNG files anywhere in the project
+*.pdf
+*.png
+
+# Ignore these files
+Auckland_other_results_bar_graph.py
+Auckland_run_other_analysis.py
+Auckland_run_vehicle_resident_analysis.py
+Auckland_vehicle_resident_bar_graph.py
+
+# Ignore these folders
+OUTPUT
+__pycache__/
+

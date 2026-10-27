@@ -9,6 +9,8 @@ Auckland_run_vehicle_resident_analysis.py
 Auckland_vehicle_resident_bar_graph.py
 
 # Ignore these folders
-OUTPUT
+OUTPUT/Taranaki/cache
+OUTPUT/Auckland_other
+OUTPUT/Auckland_vehicle_residents
 __pycache__/
 
